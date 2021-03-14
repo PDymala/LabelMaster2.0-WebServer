@@ -3,12 +3,13 @@ REST API. It's main purpose is to handle requests aimed at MySql database. It ca
 
 Urls in my case (POSTMAN or web browser):
 
-//http://localhost:8080/LabelMaster2/restapi/standardlabel/checklabel/AA123  GET
-//http://localhost:8080/LabelMaster2/restapi/standardlabel/putlabel/AA123   POST
-//http://localhost:8080/LabelMaster2/restapi/standardlabel/deletelabel/AA123   DELETE
+//h.ttp://localhost:8080/LabelMaster2/restapi/standardlabel/checklabel/AA123  GET
+//h.ttp://localhost:8080/LabelMaster2/restapi/standardlabel/putlabel/AA123   POST
+//h.ttp://localhost:8080/LabelMaster2/restapi/standardlabel/deletelabel/AA123   DELETE
 
 For external device connection local IPv4 has to be used e.g. 
-//http://192.168.0.22:8080/LabelMaster2/restapi/standardlabel/checklabel/AA123";
+
+//h.ttp://192.168.0.22:8080/LabelMaster2/restapi/standardlabel/checklabel/AA123"   GET
    
 
 
